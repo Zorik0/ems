@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Project Engineer",
+    "company": "NCC Limited",
+    "location": "New Delhi, IN",
+    "type": "Full-time",
+    "postedAt": "2025-08-01",
+    "applyUrl": "mailto:info@emsconsulting.in?subject=Application%20-%20Senior%20Project%20Engineer",
+    "tags": ["Civil", "PMC", "High Rise"],
+    "description": "Lead site execution for high-rise projects. Coordinate with design, vendors, and contractors."
+  },
+  {
+    "id": 2,
+    "title": "Structural Design Engineer",
+    "company": "Meinhardt",
+    "location": "Gurugram, IN",
+    "type": "Contract",
+    "postedAt": "2025-07-28",
+    "applyUrl": "mailto:info@emsconsulting.in?subject=Application%20-%20Structural%20Design%20Engineer",
+    "tags": ["Design", "STAAD", "ETABS"],
+    "description": "Perform structural analysis and detailing for commercial projects."
+  },
+  {
+    "id": 3,
+    "title": "Quantity Surveyor",
+    "company": "Simplex",
+    "location": "Mumbai, IN",
+    "type": "Full-time",
+    "postedAt": "2025-07-21",
+    "applyUrl": "mailto:info@emsconsulting.in?subject=Application%20-%20Quantity%20Surveyor",
+    "tags": ["QS", "BOQ", "Contracts"],
+    "description": "Prepare BOQs, rate analysis, and manage contracts across multiple sites."
+  }
+]
